@@ -1,0 +1,9 @@
+### Terraform
+.terraform
+terraform.tfstate*
+
+### Ansible
+*.retry
+
+### Custom
+ansible/inventory
